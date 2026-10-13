@@ -1,0 +1,1001 @@
+customer_id,age_band,income_band,occupation,region
+C00001,26-35,Low,Salaried,Central
+C00002,26-35,Lower-Middle,Agriculture,Central
+C00003,36-45,High,Retired,South
+C00004,46-55,Low,Agriculture,South
+C00005,26-35,High,Salaried,West
+C00006,36-45,Lower-Middle,Salaried,North
+C00007,36-45,Lower-Middle,Salaried,West
+C00008,18-25,Upper-Middle,Salaried,West
+C00009,26-35,Upper-Middle,Retired,West
+C00010,36-45,Low,Self-Employed,West
+C00011,46-55,Upper-Middle,Salaried,South
+C00012,26-35,Low,Retired,East
+C00013,36-45,Upper-Middle,Salaried,North
+C00014,26-35,Low,Salaried,West
+C00015,46-55,Upper-Middle,Salaried,North
+C00016,36-45,Lower-Middle,Salaried,North
+C00017,36-45,Lower-Middle,Agriculture,East
+C00018,18-25,Upper-Middle,Self-Employed,West
+C00019,18-25,Low,Business Owner,West
+C00020,26-35,Low,Other,Central
+C00021,26-35,Upper-Middle,Agriculture,North
+C00022,26-35,Low,Salaried,South
+C00023,26-35,Low,Self-Employed,West
+C00024,26-35,High,Salaried,Central
+C00025,46-55,High,Salaried,South
+C00026,26-35,Lower-Middle,Business Owner,East
+C00027,56+,Upper-Middle,Salaried,East
+C00028,26-35,High,Self-Employed,North
+C00029,26-35,High,Self-Employed,North
+C00030,36-45,Low,Self-Employed,South
+C00031,26-35,Low,Agriculture,North
+C00032,56+,Lower-Middle,Self-Employed,North
+C00033,26-35,Low,Salaried,Central
+C00034,26-35,Lower-Middle,Agriculture,South
+C00035,56+,,Retired,West
+C00036,26-35,Low,Salaried,South
+C00037,56+,Lower-Middle,Salaried,West
+C00038,46-55,Lower-Middle,Retired,West
+C00039,36-45,,Salaried,North
+C00040,36-45,Lower-Middle,Salaried,South
+C00041,26-35,Upper-Middle,Salaried,West
+C00042,46-55,Upper-Middle,Salaried,West
+C00043,36-45,Lower-Middle,Salaried,South
+C00044,36-45,Low,Retired,West
+C00045,36-45,Low,Salaried,East
+C00046,56+,Upper-Middle,Self-Employed,South
+C00047,26-35,,Salaried,South
+C00048,36-45,Upper-Middle,Salaried,East
+C00049,18-25,Upper-Middle,Business Owner,North
+C00050,26-35,Lower-Middle,Self-Employed,North
+C00051,46-55,Upper-Middle,Retired,South
+C00052,26-35,Low,Agriculture,South
+C00053,26-35,Upper-Middle,Self-Employed,Central
+C00054,36-45,Lower-Middle,Agriculture,West
+C00055,36-45,Low,Self-Employed,Central
+C00056,46-55,,Agriculture,South
+C00057,56+,Lower-Middle,Agriculture,North
+C00058,26-35,High,Self-Employed,Central
+C00059,36-45,Upper-Middle,Self-Employed,Central
+C00060,36-45,Upper-Middle,Business Owner,West
+C00061,26-35,Lower-Middle,Salaried,North
+C00062,36-45,Lower-Middle,Agriculture,West
+C00063,36-45,High,Salaried,North
+C00064,56+,Low,Business Owner,Central
+C00065,46-55,Low,Business Owner,South
+C00066,18-25,,Salaried,Central
+C00067,26-35,High,Retired,Central
+C00068,26-35,Upper-Middle,Self-Employed,Central
+C00069,18-25,Low,Self-Employed,South
+C00070,36-45,Low,Business Owner,West
+C00071,26-35,Lower-Middle,Self-Employed,West
+C00072,56+,Lower-Middle,Other,South
+C00073,36-45,Upper-Middle,Salaried,South
+C00074,46-55,Lower-Middle,Salaried,East
+C00075,46-55,Lower-Middle,Self-Employed,South
+C00076,26-35,Low,Salaried,East
+C00077,18-25,Lower-Middle,Retired,West
+C00078,36-45,Lower-Middle,Salaried,East
+C00079,18-25,Lower-Middle,Salaried,North
+C00080,46-55,Lower-Middle,Salaried,South
+C00081,36-45,Upper-Middle,Salaried,West
+C00082,56+,Lower-Middle,Self-Employed,East
+C00083,56+,Lower-Middle,Salaried,Central
+C00084,46-55,Low,Salaried,Central
+C00085,36-45,Upper-Middle,Self-Employed,West
+C00086,36-45,Lower-Middle,Agriculture,Central
+C00087,26-35,Lower-Middle,Agriculture,South
+C00088,26-35,Upper-Middle,Agriculture,Central
+C00089,46-55,Upper-Middle,Salaried,Central
+C00090,18-25,Upper-Middle,Salaried,North
+C00091,36-45,Low,Other,South
+C00092,26-35,Upper-Middle,Retired,Central
+C00093,18-25,Lower-Middle,Self-Employed,South
+C00094,26-35,Lower-Middle,Other,Central
+C00095,36-45,Lower-Middle,Other,East
+C00096,26-35,High,Self-Employed,South
+C00097,46-55,Lower-Middle,Business Owner,North
+C00098,56+,High,Business Owner,North
+C00099,26-35,Low,Self-Employed,Central
+C00100,26-35,Lower-Middle,Agriculture,West
+C00101,36-45,Lower-Middle,Self-Employed,North
+C00102,36-45,High,Retired,South
+C00103,26-35,Lower-Middle,Salaried,South
+C00104,26-35,Low,Self-Employed,North
+C00105,26-35,Lower-Middle,Salaried,West
+C00106,46-55,Low,Business Owner,South
+C00107,36-45,Low,Salaried,East
+C00108,26-35,Low,Business Owner,North
+C00109,26-35,Low,Salaried,East
+C00110,46-55,Upper-Middle,Salaried,East
+C00111,18-25,Low,Agriculture,West
+C00112,36-45,Upper-Middle,Salaried,East
+C00113,36-45,Low,Salaried,West
+C00114,36-45,Low,Agriculture,South
+C00115,46-55,Lower-Middle,Salaried,North
+C00116,56+,High,Agriculture,North
+C00117,36-45,Low,Self-Employed,North
+C00118,36-45,,Other,Central
+C00119,36-45,Upper-Middle,Agriculture,South
+C00120,36-45,Low,Other,North
+C00121,26-35,Lower-Middle,Salaried,West
+C00122,18-25,Upper-Middle,Agriculture,North
+C00123,18-25,Lower-Middle,Business Owner,North
+C00124,26-35,Upper-Middle,Salaried,East
+C00125,36-45,Lower-Middle,Salaried,West
+C00126,26-35,Low,Salaried,Central
+C00127,26-35,Upper-Middle,Agriculture,West
+C00128,26-35,Upper-Middle,Salaried,North
+C00129,36-45,Upper-Middle,Salaried,West
+C00130,36-45,Lower-Middle,Salaried,North
+C00131,26-35,Low,Other,West
+C00132,18-25,Low,Self-Employed,North
+C00133,26-35,Lower-Middle,Self-Employed,East
+C00134,26-35,Lower-Middle,Salaried,West
+C00135,26-35,High,Salaried,South
+C00136,36-45,Upper-Middle,Agriculture,North
+C00137,56+,Lower-Middle,Salaried,North
+C00138,18-25,Low,Other,West
+C00139,18-25,Lower-Middle,Retired,South
+C00140,26-35,Lower-Middle,Business Owner,South
+C00141,46-55,Low,Business Owner,Central
+C00142,36-45,Low,Salaried,North
+C00143,18-25,Low,Self-Employed,West
+C00144,36-45,Lower-Middle,Self-Employed,East
+C00145,56+,Lower-Middle,Salaried,West
+C00146,26-35,Lower-Middle,Salaried,Central
+C00147,36-45,Lower-Middle,Retired,East
+C00148,46-55,Low,Salaried,East
+C00149,46-55,Upper-Middle,Salaried,North
+C00150,18-25,Low,Business Owner,East
+C00151,26-35,High,Other,South
+C00152,26-35,Low,Salaried,Central
+C00153,46-55,Lower-Middle,Agriculture,North
+C00154,18-25,Lower-Middle,Other,Central
+C00155,26-35,Upper-Middle,Self-Employed,West
+C00156,36-45,High,Business Owner,East
+C00157,46-55,Lower-Middle,Retired,South
+C00158,56+,Low,Retired,East
+C00159,36-45,Low,Salaried,West
+C00160,26-35,Lower-Middle,Agriculture,East
+C00161,36-45,Lower-Middle,Salaried,South
+C00162,36-45,Lower-Middle,Self-Employed,North
+C00163,36-45,Low,Salaried,North
+C00164,56+,Upper-Middle,Agriculture,South
+C00165,26-35,Upper-Middle,Other,Central
+C00166,36-45,Upper-Middle,Salaried,South
+C00167,46-55,Low,Salaried,West
+C00168,46-55,Lower-Middle,Salaried,West
+C00169,18-25,Low,Self-Employed,South
+C00170,36-45,Lower-Middle,Salaried,East
+C00171,26-35,Upper-Middle,Agriculture,East
+C00172,46-55,Lower-Middle,Self-Employed,North
+C00173,26-35,High,Agriculture,South
+C00174,46-55,Low,Self-Employed,North
+C00175,26-35,Upper-Middle,Salaried,Central
+C00176,26-35,Lower-Middle,Salaried,South
+C00177,36-45,,Salaried,South
+C00178,46-55,Lower-Middle,Salaried,South
+C00179,18-25,Lower-Middle,Other,East
+C00180,46-55,Lower-Middle,Agriculture,West
+C00181,36-45,Upper-Middle,Agriculture,North
+C00182,26-35,Low,Business Owner,East
+C00183,36-45,High,Retired,West
+C00184,36-45,Lower-Middle,Salaried,North
+C00185,46-55,Low,Agriculture,East
+C00186,36-45,Low,Salaried,South
+C00187,36-45,Low,Salaried,North
+C00188,26-35,Low,Salaried,Central
+C00189,18-25,High,Self-Employed,South
+C00190,26-35,Lower-Middle,Salaried,Central
+C00191,46-55,Lower-Middle,Business Owner,South
+C00192,26-35,Upper-Middle,Agriculture,Central
+C00193,26-35,Low,Salaried,South
+C00194,26-35,Lower-Middle,Self-Employed,South
+C00195,36-45,Lower-Middle,Agriculture,South
+C00196,56+,Lower-Middle,Salaried,East
+C00197,46-55,Low,Salaried,East
+C00198,26-35,High,Salaried,North
+C00199,46-55,Lower-Middle,Salaried,North
+C00200,36-45,Upper-Middle,Salaried,East
+C00201,26-35,Low,Self-Employed,North
+C00202,56+,Upper-Middle,Salaried,South
+C00203,18-25,Low,Self-Employed,North
+C00204,26-35,Upper-Middle,Business Owner,East
+C00205,26-35,High,Self-Employed,South
+C00206,26-35,Low,Self-Employed,Central
+C00207,18-25,Lower-Middle,Other,South
+C00208,26-35,Upper-Middle,Salaried,North
+C00209,36-45,Upper-Middle,Other,West
+C00210,46-55,Low,Other,South
+C00211,46-55,Lower-Middle,Salaried,North
+C00212,46-55,Upper-Middle,Self-Employed,East
+C00213,18-25,Lower-Middle,Salaried,Central
+C00214,18-25,Lower-Middle,Salaried,Central
+C00215,26-35,Lower-Middle,Retired,West
+C00216,56+,Low,Salaried,West
+C00217,46-55,Lower-Middle,Retired,South
+C00218,26-35,High,Self-Employed,South
+C00219,26-35,Upper-Middle,Self-Employed,East
+C00220,36-45,Low,Salaried,North
+C00221,18-25,Lower-Middle,Salaried,North
+C00222,26-35,Lower-Middle,Salaried,Central
+C00223,36-45,Upper-Middle,Salaried,Central
+C00224,26-35,Lower-Middle,Agriculture,North
+C00225,26-35,Upper-Middle,Salaried,South
+C00226,26-35,Low,Salaried,North
+C00227,18-25,Low,Business Owner,Central
+C00228,46-55,High,Salaried,West
+C00229,26-35,Lower-Middle,Self-Employed,West
+C00230,18-25,Lower-Middle,Self-Employed,West
+C00231,26-35,Upper-Middle,Salaried,East
+C00232,26-35,Low,Salaried,Central
+C00233,18-25,High,Salaried,South
+C00234,56+,Low,Self-Employed,East
+C00235,36-45,Low,Self-Employed,North
+C00236,18-25,Lower-Middle,Salaried,West
+C00237,26-35,Low,Salaried,East
+C00238,36-45,Low,Agriculture,South
+C00239,26-35,Lower-Middle,Self-Employed,East
+C00240,36-45,High,Self-Employed,West
+C00241,36-45,Low,Agriculture,North
+C00242,36-45,Lower-Middle,Self-Employed,South
+C00243,46-55,Low,Salaried,North
+C00244,36-45,Upper-Middle,Other,East
+C00245,26-35,Upper-Middle,Business Owner,South
+C00246,46-55,High,Salaried,North
+C00247,46-55,Lower-Middle,Business Owner,North
+C00248,18-25,Upper-Middle,Business Owner,North
+C00249,36-45,Lower-Middle,Self-Employed,North
+C00250,26-35,Low,Salaried,West
+C00251,18-25,High,Agriculture,North
+C00252,36-45,Upper-Middle,Self-Employed,East
+C00253,26-35,Low,Salaried,West
+C00254,36-45,Upper-Middle,Salaried,South
+C00255,26-35,Low,Salaried,West
+C00256,46-55,Lower-Middle,Self-Employed,Central
+C00257,18-25,High,Salaried,West
+C00258,26-35,Lower-Middle,Self-Employed,North
+C00259,36-45,Lower-Middle,Agriculture,North
+C00260,36-45,Low,Salaried,West
+C00261,56+,,Retired,South
+C00262,18-25,Upper-Middle,Agriculture,East
+C00263,36-45,High,Business Owner,West
+C00264,56+,High,Self-Employed,South
+C00265,26-35,Low,Agriculture,South
+C00266,26-35,Low,Salaried,South
+C00267,26-35,High,Self-Employed,Central
+C00268,56+,Lower-Middle,Salaried,East
+C00269,46-55,Lower-Middle,Salaried,South
+C00270,56+,Lower-Middle,Salaried,South
+C00271,18-25,Low,Self-Employed,West
+C00272,18-25,High,Self-Employed,East
+C00273,26-35,Upper-Middle,Salaried,West
+C00274,26-35,Lower-Middle,Salaried,South
+C00275,36-45,Lower-Middle,Salaried,North
+C00276,46-55,Lower-Middle,Salaried,South
+C00277,46-55,Lower-Middle,Self-Employed,South
+C00278,36-45,Low,Salaried,Central
+C00279,26-35,Low,Salaried,South
+C00280,26-35,Lower-Middle,Self-Employed,South
+C00281,26-35,High,Salaried,North
+C00282,36-45,,Salaried,West
+C00283,56+,Lower-Middle,Business Owner,East
+C00284,26-35,Lower-Middle,Self-Employed,North
+C00285,46-55,Lower-Middle,Self-Employed,West
+C00286,46-55,Low,Salaried,South
+C00287,26-35,Upper-Middle,Self-Employed,North
+C00288,26-35,Low,Agriculture,South
+C00289,26-35,High,Salaried,East
+C00290,26-35,Lower-Middle,Salaried,West
+C00291,56+,Low,Salaried,West
+C00292,26-35,Upper-Middle,Retired,North
+C00293,56+,,Other,West
+C00294,26-35,Low,Self-Employed,North
+C00295,46-55,Lower-Middle,Retired,West
+C00296,46-55,Upper-Middle,Self-Employed,North
+C00297,36-45,Lower-Middle,Agriculture,South
+C00298,26-35,,Agriculture,West
+C00299,36-45,Low,Salaried,South
+C00300,36-45,Lower-Middle,Self-Employed,South
+C00301,46-55,Low,Self-Employed,East
+C00302,26-35,Lower-Middle,Agriculture,West
+C00303,56+,High,Salaried,East
+C00304,26-35,Lower-Middle,Salaried,South
+C00305,46-55,Lower-Middle,Retired,Central
+C00306,18-25,Low,Agriculture,North
+C00307,26-35,Low,Salaried,West
+C00308,36-45,Lower-Middle,Self-Employed,East
+C00309,26-35,Lower-Middle,Salaried,East
+C00310,18-25,Lower-Middle,Salaried,North
+C00311,26-35,Upper-Middle,Other,West
+C00312,36-45,High,Business Owner,Central
+C00313,26-35,Lower-Middle,Retired,West
+C00314,36-45,Low,Business Owner,North
+C00315,26-35,Lower-Middle,Self-Employed,South
+C00316,56+,Low,Business Owner,West
+C00317,46-55,High,Salaried,East
+C00318,46-55,Low,Self-Employed,East
+C00319,26-35,Lower-Middle,Salaried,North
+C00320,26-35,Lower-Middle,Salaried,East
+C00321,36-45,Upper-Middle,Salaried,West
+C00322,26-35,High,Salaried,West
+C00323,46-55,Lower-Middle,Agriculture,North
+C00324,56+,Low,Salaried,North
+C00325,56+,Upper-Middle,Salaried,North
+C00326,46-55,Lower-Middle,Salaried,South
+C00327,46-55,Low,Salaried,South
+C00328,36-45,Lower-Middle,Salaried,West
+C00329,26-35,Low,Self-Employed,South
+C00330,46-55,Upper-Middle,Agriculture,South
+C00331,18-25,,Business Owner,South
+C00332,46-55,Low,Agriculture,South
+C00333,26-35,Lower-Middle,Salaried,Central
+C00334,56+,Low,Salaried,South
+C00335,36-45,Low,Salaried,North
+C00336,46-55,Low,Agriculture,South
+C00337,26-35,Upper-Middle,Salaried,South
+C00338,26-35,Lower-Middle,Self-Employed,West
+C00339,26-35,Lower-Middle,Agriculture,Central
+C00340,36-45,High,Self-Employed,North
+C00341,26-35,High,Self-Employed,Central
+C00342,46-55,High,Salaried,South
+C00343,36-45,High,Self-Employed,Central
+C00344,46-55,Upper-Middle,Agriculture,South
+C00345,26-35,Upper-Middle,Salaried,North
+C00346,56+,Low,Business Owner,South
+C00347,26-35,Lower-Middle,Agriculture,South
+C00348,18-25,Upper-Middle,Other,South
+C00349,46-55,Lower-Middle,Salaried,North
+C00350,36-45,Lower-Middle,Retired,Central
+C00351,36-45,Low,Salaried,South
+C00352,26-35,Lower-Middle,Self-Employed,North
+C00353,26-35,Upper-Middle,Agriculture,East
+C00354,18-25,Low,Retired,North
+C00355,18-25,Low,Self-Employed,South
+C00356,26-35,High,Self-Employed,South
+C00357,46-55,Low,Agriculture,West
+C00358,36-45,Lower-Middle,Agriculture,East
+C00359,26-35,Low,Other,West
+C00360,56+,Low,Salaried,West
+C00361,36-45,Lower-Middle,Salaried,West
+C00362,46-55,Lower-Middle,Other,West
+C00363,18-25,High,Self-Employed,South
+C00364,36-45,Upper-Middle,Salaried,Central
+C00365,26-35,Lower-Middle,Salaried,North
+C00366,26-35,Upper-Middle,Self-Employed,South
+C00367,36-45,Low,Self-Employed,North
+C00368,36-45,Lower-Middle,Salaried,South
+C00369,26-35,Upper-Middle,Salaried,East
+C00370,56+,High,Salaried,East
+C00371,56+,Lower-Middle,Self-Employed,West
+C00372,18-25,Low,Salaried,Central
+C00373,26-35,Lower-Middle,Self-Employed,Central
+C00374,36-45,,Salaried,North
+C00375,18-25,Low,Self-Employed,Central
+C00376,36-45,Lower-Middle,Salaried,East
+C00377,26-35,Low,Self-Employed,North
+C00378,18-25,Upper-Middle,Business Owner,Central
+C00379,56+,Lower-Middle,Agriculture,North
+C00380,36-45,Upper-Middle,Agriculture,South
+C00381,26-35,,Salaried,Central
+C00382,36-45,Low,Other,South
+C00383,36-45,Upper-Middle,Salaried,East
+C00384,36-45,High,Salaried,West
+C00385,36-45,Upper-Middle,Business Owner,South
+C00386,26-35,High,Salaried,East
+C00387,18-25,,Salaried,West
+C00388,36-45,High,Agriculture,West
+C00389,36-45,High,Salaried,West
+C00390,18-25,Low,Agriculture,South
+C00391,18-25,Low,Retired,Central
+C00392,36-45,Upper-Middle,Agriculture,Central
+C00393,26-35,Low,Self-Employed,South
+C00394,46-55,Lower-Middle,Business Owner,South
+C00395,46-55,Lower-Middle,Salaried,South
+C00396,18-25,Upper-Middle,Self-Employed,South
+C00397,26-35,High,Salaried,East
+C00398,26-35,Upper-Middle,Business Owner,Central
+C00399,26-35,Upper-Middle,Salaried,Central
+C00400,26-35,Upper-Middle,Agriculture,North
+C00401,26-35,Low,Self-Employed,Central
+C00402,36-45,Lower-Middle,Retired,North
+C00403,36-45,Upper-Middle,Self-Employed,Central
+C00404,46-55,Lower-Middle,Retired,West
+C00405,36-45,Low,Salaried,East
+C00406,26-35,Lower-Middle,Retired,East
+C00407,36-45,Lower-Middle,Business Owner,South
+C00408,26-35,Upper-Middle,Salaried,North
+C00409,36-45,Upper-Middle,Salaried,West
+C00410,36-45,Low,Retired,North
+C00411,18-25,Lower-Middle,Salaried,North
+C00412,46-55,Lower-Middle,Self-Employed,West
+C00413,26-35,Lower-Middle,Business Owner,South
+C00414,36-45,High,Salaried,Central
+C00415,56+,Low,Self-Employed,West
+C00416,46-55,High,Business Owner,North
+C00417,26-35,Low,Salaried,East
+C00418,26-35,High,Agriculture,East
+C00419,18-25,Low,Salaried,South
+C00420,26-35,,Retired,South
+C00421,36-45,Upper-Middle,Business Owner,Central
+C00422,26-35,Low,Salaried,West
+C00423,26-35,Lower-Middle,Salaried,West
+C00424,26-35,Low,Other,South
+C00425,36-45,Lower-Middle,Salaried,North
+C00426,46-55,High,Business Owner,North
+C00427,36-45,Upper-Middle,Salaried,Central
+C00428,26-35,Low,Self-Employed,North
+C00429,36-45,High,Self-Employed,South
+C00430,26-35,Upper-Middle,Agriculture,East
+C00431,26-35,Upper-Middle,Salaried,South
+C00432,18-25,High,Self-Employed,South
+C00433,46-55,Low,Salaried,Central
+C00434,26-35,Low,Salaried,Central
+C00435,36-45,High,Retired,West
+C00436,36-45,Upper-Middle,Agriculture,Central
+C00437,36-45,,Salaried,West
+C00438,18-25,High,Business Owner,South
+C00439,26-35,Low,Business Owner,North
+C00440,36-45,Upper-Middle,Salaried,Central
+C00441,36-45,Lower-Middle,Salaried,East
+C00442,46-55,Upper-Middle,Salaried,South
+C00443,46-55,Upper-Middle,Salaried,South
+C00444,46-55,,Salaried,West
+C00445,36-45,Upper-Middle,Salaried,Central
+C00446,18-25,,Salaried,East
+C00447,26-35,,Salaried,West
+C00448,26-35,Upper-Middle,Salaried,West
+C00449,26-35,Lower-Middle,Salaried,South
+C00450,26-35,Low,Salaried,South
+C00451,46-55,High,Self-Employed,East
+C00452,26-35,Low,Business Owner,South
+C00453,26-35,High,Salaried,West
+C00454,36-45,Low,Self-Employed,North
+C00455,18-25,Low,Agriculture,West
+C00456,36-45,Low,Salaried,West
+C00457,36-45,Upper-Middle,Salaried,Central
+C00458,46-55,Lower-Middle,Retired,West
+C00459,56+,Lower-Middle,Agriculture,West
+C00460,36-45,Low,Business Owner,South
+C00461,36-45,Upper-Middle,Other,South
+C00462,26-35,Low,Salaried,Central
+C00463,26-35,Upper-Middle,Salaried,North
+C00464,18-25,Upper-Middle,Salaried,North
+C00465,36-45,Low,Agriculture,East
+C00466,26-35,Upper-Middle,Salaried,North
+C00467,36-45,Low,Salaried,West
+C00468,26-35,Lower-Middle,Salaried,South
+C00469,56+,Low,Self-Employed,South
+C00470,46-55,Low,Salaried,South
+C00471,26-35,Low,Salaried,South
+C00472,56+,Lower-Middle,Other,South
+C00473,46-55,Upper-Middle,Salaried,East
+C00474,26-35,Lower-Middle,Self-Employed,South
+C00475,36-45,High,Salaried,West
+C00476,56+,Lower-Middle,Agriculture,West
+C00477,26-35,Upper-Middle,Salaried,East
+C00478,18-25,Lower-Middle,Salaried,Central
+C00479,18-25,Lower-Middle,Salaried,South
+C00480,18-25,High,Agriculture,West
+C00481,26-35,Lower-Middle,Self-Employed,South
+C00482,26-35,Low,Other,West
+C00483,46-55,Low,Salaried,North
+C00484,56+,Upper-Middle,Retired,South
+C00485,26-35,Upper-Middle,Salaried,Central
+C00486,26-35,Low,Self-Employed,Central
+C00487,36-45,Lower-Middle,Business Owner,West
+C00488,36-45,Upper-Middle,Salaried,East
+C00489,18-25,Low,Salaried,Central
+C00490,46-55,Upper-Middle,Business Owner,West
+C00491,18-25,Lower-Middle,Salaried,West
+C00492,36-45,Low,Agriculture,Central
+C00493,18-25,Upper-Middle,Retired,South
+C00494,36-45,Upper-Middle,Business Owner,South
+C00495,56+,Low,Salaried,Central
+C00496,26-35,High,Self-Employed,East
+C00497,46-55,Lower-Middle,Self-Employed,Central
+C00498,36-45,Low,Business Owner,East
+C00499,26-35,Lower-Middle,Self-Employed,East
+C00500,18-25,Low,Business Owner,Central
+C00501,46-55,Lower-Middle,Salaried,West
+C00502,26-35,High,Agriculture,Central
+C00503,56+,Upper-Middle,Salaried,South
+C00504,46-55,Lower-Middle,Salaried,South
+C00505,36-45,Upper-Middle,Business Owner,Central
+C00506,26-35,Low,Agriculture,West
+C00507,26-35,Upper-Middle,Business Owner,West
+C00508,18-25,Lower-Middle,Salaried,East
+C00509,26-35,Upper-Middle,Self-Employed,East
+C00510,56+,Low,Salaried,East
+C00511,26-35,High,Self-Employed,North
+C00512,26-35,Low,Salaried,Central
+C00513,18-25,Lower-Middle,Self-Employed,West
+C00514,26-35,Low,Self-Employed,South
+C00515,36-45,Upper-Middle,Self-Employed,West
+C00516,56+,Upper-Middle,Self-Employed,East
+C00517,46-55,Lower-Middle,Salaried,North
+C00518,18-25,,Salaried,West
+C00519,36-45,Low,Salaried,East
+C00520,46-55,Lower-Middle,Self-Employed,East
+C00521,26-35,Lower-Middle,Self-Employed,East
+C00522,18-25,Upper-Middle,Business Owner,South
+C00523,36-45,Upper-Middle,Agriculture,South
+C00524,56+,Upper-Middle,Agriculture,North
+C00525,26-35,High,Salaried,West
+C00526,36-45,Low,Salaried,Central
+C00527,46-55,Low,Retired,East
+C00528,36-45,Upper-Middle,Other,West
+C00529,18-25,,Salaried,Central
+C00530,26-35,Low,Salaried,East
+C00531,46-55,Low,Retired,West
+C00532,18-25,Lower-Middle,Salaried,North
+C00533,46-55,High,Salaried,West
+C00534,56+,Upper-Middle,Self-Employed,East
+C00535,46-55,Upper-Middle,Agriculture,West
+C00536,56+,Upper-Middle,Business Owner,South
+C00537,18-25,Low,Salaried,West
+C00538,26-35,Upper-Middle,Salaried,South
+C00539,26-35,Lower-Middle,Agriculture,North
+C00540,56+,Lower-Middle,Agriculture,North
+C00541,18-25,Low,Agriculture,West
+C00542,36-45,High,Agriculture,East
+C00543,26-35,Lower-Middle,Agriculture,West
+C00544,46-55,Low,Business Owner,East
+C00545,26-35,Upper-Middle,Other,East
+C00546,18-25,Low,Salaried,South
+C00547,36-45,Low,Self-Employed,South
+C00548,46-55,Upper-Middle,Self-Employed,West
+C00549,46-55,High,Salaried,South
+C00550,46-55,Lower-Middle,Salaried,West
+C00551,36-45,High,Salaried,West
+C00552,26-35,Lower-Middle,Other,Central
+C00553,26-35,Low,Self-Employed,West
+C00554,46-55,Low,Self-Employed,South
+C00555,36-45,Upper-Middle,Salaried,West
+C00556,26-35,Low,Agriculture,South
+C00557,36-45,Low,Agriculture,South
+C00558,18-25,Low,Self-Employed,West
+C00559,26-35,Lower-Middle,Business Owner,South
+C00560,36-45,Lower-Middle,Self-Employed,South
+C00561,46-55,Low,Salaried,South
+C00562,36-45,Upper-Middle,Other,West
+C00563,18-25,Lower-Middle,Other,Central
+C00564,18-25,Low,Self-Employed,East
+C00565,46-55,Low,Self-Employed,South
+C00566,46-55,High,Other,North
+C00567,46-55,Low,Salaried,West
+C00568,26-35,Lower-Middle,Self-Employed,East
+C00569,36-45,Lower-Middle,Self-Employed,West
+C00570,26-35,Upper-Middle,Agriculture,North
+C00571,46-55,Low,Salaried,West
+C00572,46-55,Low,Agriculture,South
+C00573,36-45,Lower-Middle,Agriculture,East
+C00574,46-55,Lower-Middle,Salaried,East
+C00575,36-45,Lower-Middle,Other,Central
+C00576,56+,Low,Salaried,Central
+C00577,26-35,High,Business Owner,South
+C00578,36-45,High,Salaried,South
+C00579,46-55,High,Salaried,East
+C00580,26-35,Low,Retired,South
+C00581,46-55,Lower-Middle,Salaried,South
+C00582,36-45,Low,Other,Central
+C00583,26-35,Lower-Middle,Self-Employed,East
+C00584,46-55,Lower-Middle,Self-Employed,Central
+C00585,26-35,Low,Salaried,East
+C00586,46-55,Lower-Middle,Salaried,Central
+C00587,26-35,Upper-Middle,Business Owner,North
+C00588,26-35,Upper-Middle,Self-Employed,South
+C00589,36-45,Low,Business Owner,West
+C00590,18-25,Lower-Middle,Agriculture,South
+C00591,18-25,Lower-Middle,Salaried,North
+C00592,56+,High,Salaried,West
+C00593,26-35,Lower-Middle,Self-Employed,West
+C00594,36-45,Low,Self-Employed,Central
+C00595,26-35,Low,Retired,West
+C00596,36-45,Lower-Middle,Other,East
+C00597,46-55,Upper-Middle,Salaried,West
+C00598,56+,Low,Agriculture,Central
+C00599,36-45,Upper-Middle,Salaried,North
+C00600,36-45,Lower-Middle,Retired,East
+C00601,18-25,High,Agriculture,South
+C00602,36-45,High,Salaried,North
+C00603,26-35,Low,Self-Employed,East
+C00604,18-25,Low,Salaried,North
+C00605,56+,Upper-Middle,Self-Employed,East
+C00606,36-45,Lower-Middle,Self-Employed,Central
+C00607,56+,Upper-Middle,Self-Employed,North
+C00608,26-35,Lower-Middle,Salaried,North
+C00609,36-45,Low,Salaried,North
+C00610,46-55,Low,Business Owner,North
+C00611,36-45,Upper-Middle,Retired,West
+C00612,46-55,,Salaried,East
+C00613,26-35,High,Retired,South
+C00614,36-45,Lower-Middle,Salaried,South
+C00615,18-25,High,Agriculture,East
+C00616,36-45,High,Salaried,East
+C00617,46-55,High,Self-Employed,West
+C00618,26-35,High,Salaried,North
+C00619,18-25,Upper-Middle,Salaried,North
+C00620,26-35,Lower-Middle,Salaried,South
+C00621,18-25,Upper-Middle,Salaried,West
+C00622,26-35,Upper-Middle,Salaried,South
+C00623,46-55,Upper-Middle,Business Owner,Central
+C00624,26-35,Lower-Middle,Business Owner,North
+C00625,26-35,Upper-Middle,Self-Employed,South
+C00626,26-35,Low,Salaried,North
+C00627,26-35,Low,Agriculture,Central
+C00628,18-25,Lower-Middle,Salaried,East
+C00629,26-35,Low,Salaried,Central
+C00630,26-35,High,Self-Employed,West
+C00631,26-35,Lower-Middle,Salaried,East
+C00632,36-45,Lower-Middle,Salaried,East
+C00633,46-55,Low,Business Owner,Central
+C00634,18-25,High,Agriculture,East
+C00635,36-45,High,Retired,North
+C00636,26-35,Low,Salaried,South
+C00637,46-55,High,Salaried,Central
+C00638,46-55,Upper-Middle,Self-Employed,Central
+C00639,26-35,Lower-Middle,Salaried,West
+C00640,36-45,,Business Owner,West
+C00641,26-35,,Salaried,Central
+C00642,56+,Low,Business Owner,North
+C00643,56+,Lower-Middle,Self-Employed,North
+C00644,46-55,Low,Self-Employed,North
+C00645,26-35,Lower-Middle,Business Owner,East
+C00646,26-35,Low,Salaried,Central
+C00647,26-35,High,Salaried,West
+C00648,26-35,Low,Business Owner,West
+C00649,56+,Lower-Middle,Self-Employed,Central
+C00650,26-35,Lower-Middle,Agriculture,West
+C00651,18-25,High,Salaried,Central
+C00652,36-45,Lower-Middle,Agriculture,East
+C00653,56+,Low,Business Owner,East
+C00654,26-35,Lower-Middle,Agriculture,South
+C00655,36-45,Low,Salaried,South
+C00656,46-55,Upper-Middle,Self-Employed,North
+C00657,18-25,Low,Salaried,Central
+C00658,26-35,Upper-Middle,Salaried,East
+C00659,36-45,Upper-Middle,Retired,North
+C00660,36-45,High,Self-Employed,West
+C00661,36-45,Lower-Middle,Salaried,West
+C00662,46-55,,Salaried,East
+C00663,26-35,,Salaried,South
+C00664,26-35,High,Self-Employed,North
+C00665,36-45,Low,Agriculture,Central
+C00666,46-55,High,Agriculture,South
+C00667,26-35,Upper-Middle,Agriculture,Central
+C00668,18-25,Lower-Middle,Salaried,West
+C00669,26-35,Upper-Middle,Salaried,North
+C00670,56+,Low,Agriculture,South
+C00671,18-25,Low,Agriculture,East
+C00672,36-45,Upper-Middle,Business Owner,West
+C00673,56+,High,Self-Employed,West
+C00674,36-45,Upper-Middle,Other,Central
+C00675,26-35,High,Salaried,East
+C00676,26-35,Low,Salaried,South
+C00677,26-35,Low,Other,North
+C00678,26-35,Low,Salaried,South
+C00679,26-35,Low,Agriculture,West
+C00680,36-45,Lower-Middle,Salaried,South
+C00681,46-55,Upper-Middle,Self-Employed,North
+C00682,36-45,Lower-Middle,Salaried,West
+C00683,36-45,High,Business Owner,South
+C00684,18-25,Lower-Middle,Self-Employed,South
+C00685,26-35,Lower-Middle,Retired,West
+C00686,26-35,Upper-Middle,Self-Employed,Central
+C00687,26-35,Upper-Middle,Self-Employed,North
+C00688,36-45,Upper-Middle,Salaried,East
+C00689,26-35,Low,Agriculture,South
+C00690,46-55,Low,Retired,South
+C00691,26-35,Upper-Middle,Other,West
+C00692,26-35,Lower-Middle,Business Owner,West
+C00693,26-35,Lower-Middle,Salaried,South
+C00694,18-25,Upper-Middle,Self-Employed,West
+C00695,36-45,Lower-Middle,Agriculture,East
+C00696,26-35,Lower-Middle,Salaried,South
+C00697,36-45,Upper-Middle,Business Owner,North
+C00698,26-35,High,Self-Employed,South
+C00699,46-55,Lower-Middle,Self-Employed,East
+C00700,18-25,Lower-Middle,Salaried,North
+C00701,26-35,High,Agriculture,West
+C00702,46-55,Upper-Middle,Other,West
+C00703,36-45,Lower-Middle,Salaried,Central
+C00704,26-35,Upper-Middle,Self-Employed,East
+C00705,26-35,Low,Other,North
+C00706,18-25,Upper-Middle,Salaried,North
+C00707,26-35,High,Other,Central
+C00708,56+,Lower-Middle,Salaried,Central
+C00709,26-35,Lower-Middle,Self-Employed,Central
+C00710,56+,Upper-Middle,Self-Employed,South
+C00711,26-35,Low,Business Owner,Central
+C00712,36-45,Low,Agriculture,Central
+C00713,26-35,Upper-Middle,Salaried,North
+C00714,26-35,Lower-Middle,Other,West
+C00715,18-25,Low,Self-Employed,East
+C00716,26-35,Low,Salaried,South
+C00717,36-45,Lower-Middle,Salaried,West
+C00718,26-35,Low,Other,South
+C00719,46-55,Lower-Middle,Salaried,Central
+C00720,26-35,Lower-Middle,Self-Employed,West
+C00721,56+,Lower-Middle,Salaried,South
+C00722,18-25,High,Salaried,North
+C00723,26-35,Low,Salaried,North
+C00724,36-45,Low,Business Owner,North
+C00725,26-35,Upper-Middle,Business Owner,South
+C00726,46-55,High,Self-Employed,North
+C00727,56+,Low,Salaried,Central
+C00728,26-35,Upper-Middle,Self-Employed,North
+C00729,26-35,Low,Salaried,East
+C00730,26-35,Low,Salaried,South
+C00731,36-45,Low,Salaried,East
+C00732,36-45,Upper-Middle,Salaried,West
+C00733,36-45,Low,Other,East
+C00734,46-55,Low,Salaried,West
+C00735,36-45,Lower-Middle,Self-Employed,South
+C00736,26-35,Upper-Middle,Salaried,West
+C00737,26-35,Low,Salaried,North
+C00738,36-45,Upper-Middle,Self-Employed,East
+C00739,46-55,Upper-Middle,Salaried,East
+C00740,26-35,Lower-Middle,Agriculture,West
+C00741,26-35,Upper-Middle,Agriculture,Central
+C00742,26-35,Lower-Middle,Agriculture,East
+C00743,26-35,Upper-Middle,Business Owner,North
+C00744,56+,Lower-Middle,Self-Employed,West
+C00745,36-45,Low,Self-Employed,South
+C00746,56+,Upper-Middle,Self-Employed,North
+C00747,46-55,Low,Self-Employed,West
+C00748,26-35,Upper-Middle,Salaried,South
+C00749,36-45,Lower-Middle,Salaried,West
+C00750,26-35,Low,Business Owner,Central
+C00751,46-55,,Salaried,North
+C00752,18-25,Low,Business Owner,North
+C00753,36-45,,Salaried,North
+C00754,26-35,Lower-Middle,Business Owner,South
+C00755,56+,High,Salaried,East
+C00756,36-45,High,Self-Employed,North
+C00757,36-45,High,Retired,East
+C00758,26-35,Lower-Middle,Self-Employed,Central
+C00759,46-55,Low,Business Owner,Central
+C00760,36-45,Upper-Middle,Salaried,East
+C00761,46-55,High,Salaried,Central
+C00762,26-35,Low,Other,South
+C00763,36-45,Low,Salaried,South
+C00764,46-55,Low,Self-Employed,West
+C00765,26-35,Lower-Middle,Salaried,North
+C00766,18-25,Low,Self-Employed,South
+C00767,56+,Lower-Middle,Salaried,South
+C00768,36-45,Upper-Middle,Salaried,South
+C00769,46-55,Lower-Middle,Salaried,Central
+C00770,36-45,High,Self-Employed,West
+C00771,46-55,Upper-Middle,Business Owner,North
+C00772,18-25,Low,Salaried,North
+C00773,46-55,Lower-Middle,Agriculture,South
+C00774,36-45,Lower-Middle,Self-Employed,South
+C00775,56+,Low,Business Owner,West
+C00776,26-35,Low,Salaried,East
+C00777,56+,Lower-Middle,Business Owner,North
+C00778,26-35,Low,Business Owner,East
+C00779,26-35,Low,Retired,South
+C00780,46-55,High,Business Owner,South
+C00781,26-35,High,Salaried,North
+C00782,26-35,High,Retired,West
+C00783,46-55,Low,Salaried,South
+C00784,18-25,Low,Other,North
+C00785,46-55,Upper-Middle,Business Owner,West
+C00786,36-45,Low,Salaried,North
+C00787,56+,Lower-Middle,Salaried,West
+C00788,26-35,Lower-Middle,Business Owner,North
+C00789,36-45,,Business Owner,South
+C00790,26-35,,Salaried,East
+C00791,36-45,,Self-Employed,South
+C00792,46-55,Upper-Middle,Salaried,Central
+C00793,26-35,Lower-Middle,Salaried,South
+C00794,18-25,Upper-Middle,Agriculture,South
+C00795,36-45,Low,Salaried,South
+C00796,26-35,Lower-Middle,Salaried,North
+C00797,26-35,Lower-Middle,Salaried,North
+C00798,26-35,Upper-Middle,Agriculture,West
+C00799,36-45,Upper-Middle,Agriculture,South
+C00800,36-45,Lower-Middle,Salaried,East
+C00801,26-35,Upper-Middle,Business Owner,North
+C00802,36-45,,Business Owner,East
+C00803,46-55,,Agriculture,North
+C00804,46-55,Upper-Middle,Salaried,Central
+C00805,46-55,Low,Retired,West
+C00806,36-45,Lower-Middle,Agriculture,Central
+C00807,36-45,Upper-Middle,Salaried,North
+C00808,46-55,Low,Other,East
+C00809,26-35,,Salaried,South
+C00810,36-45,Low,Agriculture,North
+C00811,18-25,Upper-Middle,Salaried,West
+C00812,26-35,Upper-Middle,Salaried,North
+C00813,36-45,Low,Self-Employed,West
+C00814,36-45,Low,Self-Employed,West
+C00815,46-55,Lower-Middle,Self-Employed,South
+C00816,26-35,Upper-Middle,Self-Employed,West
+C00817,18-25,Low,Salaried,South
+C00818,56+,Lower-Middle,Agriculture,South
+C00819,46-55,Lower-Middle,Salaried,South
+C00820,26-35,Low,Agriculture,North
+C00821,18-25,Lower-Middle,Salaried,North
+C00822,36-45,Upper-Middle,Business Owner,Central
+C00823,26-35,Lower-Middle,Other,Central
+C00824,56+,Lower-Middle,Self-Employed,South
+C00825,36-45,Lower-Middle,Salaried,Central
+C00826,36-45,Lower-Middle,Salaried,West
+C00827,18-25,High,Salaried,Central
+C00828,18-25,High,Business Owner,Central
+C00829,26-35,Low,Other,South
+C00830,36-45,Upper-Middle,Self-Employed,South
+C00831,56+,,Salaried,North
+C00832,36-45,Upper-Middle,Agriculture,North
+C00833,18-25,Upper-Middle,Self-Employed,West
+C00834,56+,Upper-Middle,Self-Employed,South
+C00835,26-35,Lower-Middle,Salaried,Central
+C00836,26-35,High,Salaried,South
+C00837,36-45,Low,Agriculture,West
+C00838,36-45,Low,Salaried,South
+C00839,46-55,Upper-Middle,Agriculture,East
+C00840,26-35,Low,Agriculture,South
+C00841,18-25,High,Salaried,North
+C00842,26-35,,Salaried,West
+C00843,36-45,,Business Owner,West
+C00844,36-45,Lower-Middle,Salaried,East
+C00845,18-25,High,Self-Employed,Central
+C00846,36-45,High,Salaried,West
+C00847,36-45,Upper-Middle,Self-Employed,North
+C00848,26-35,Lower-Middle,Other,West
+C00849,26-35,Upper-Middle,Agriculture,West
+C00850,26-35,Upper-Middle,Self-Employed,South
+C00851,36-45,Low,Self-Employed,South
+C00852,56+,Lower-Middle,Self-Employed,West
+C00853,56+,High,Salaried,East
+C00854,36-45,Upper-Middle,Self-Employed,North
+C00855,26-35,Upper-Middle,Business Owner,East
+C00856,26-35,Lower-Middle,Business Owner,Central
+C00857,18-25,Lower-Middle,Business Owner,North
+C00858,18-25,Upper-Middle,Retired,South
+C00859,36-45,Low,Business Owner,West
+C00860,26-35,High,Salaried,Central
+C00861,26-35,Lower-Middle,Agriculture,North
+C00862,26-35,Upper-Middle,Self-Employed,East
+C00863,46-55,Upper-Middle,Self-Employed,South
+C00864,26-35,Low,Salaried,South
+C00865,46-55,Upper-Middle,Salaried,East
+C00866,46-55,Upper-Middle,Salaried,West
+C00867,46-55,Low,Self-Employed,South
+C00868,18-25,Low,Self-Employed,North
+C00869,56+,Low,Salaried,West
+C00870,26-35,,Self-Employed,South
+C00871,26-35,Low,Salaried,North
+C00872,26-35,Low,Agriculture,East
+C00873,18-25,Lower-Middle,Agriculture,South
+C00874,36-45,Lower-Middle,Salaried,West
+C00875,36-45,Lower-Middle,Business Owner,West
+C00876,46-55,Low,Salaried,West
+C00877,36-45,Upper-Middle,Salaried,West
+C00878,36-45,Lower-Middle,Salaried,North
+C00879,26-35,Upper-Middle,Self-Employed,Central
+C00880,36-45,Upper-Middle,Salaried,South
+C00881,26-35,Upper-Middle,Salaried,South
+C00882,26-35,Lower-Middle,Salaried,West
+C00883,26-35,Low,Business Owner,East
+C00884,36-45,Low,Business Owner,North
+C00885,18-25,High,Salaried,South
+C00886,36-45,Low,Business Owner,West
+C00887,36-45,Upper-Middle,Self-Employed,West
+C00888,36-45,Lower-Middle,Self-Employed,Central
+C00889,46-55,Upper-Middle,Salaried,West
+C00890,46-55,Upper-Middle,Other,West
+C00891,56+,Lower-Middle,Salaried,North
+C00892,56+,Low,Business Owner,Central
+C00893,26-35,Lower-Middle,Self-Employed,West
+C00894,56+,Lower-Middle,Salaried,East
+C00895,46-55,Lower-Middle,Salaried,West
+C00896,26-35,Lower-Middle,Agriculture,South
+C00897,36-45,Low,Self-Employed,West
+C00898,26-35,Low,Business Owner,Central
+C00899,26-35,Upper-Middle,Retired,West
+C00900,56+,Lower-Middle,Self-Employed,East
+C00901,46-55,Low,Agriculture,South
+C00902,36-45,Lower-Middle,Salaried,East
+C00903,46-55,Lower-Middle,Salaried,West
+C00904,56+,Low,Business Owner,South
+C00905,26-35,Low,Other,South
+C00906,18-25,Upper-Middle,Agriculture,West
+C00907,46-55,High,Retired,Central
+C00908,26-35,Lower-Middle,Self-Employed,Central
+C00909,26-35,Upper-Middle,Self-Employed,North
+C00910,26-35,Low,Salaried,West
+C00911,46-55,High,Agriculture,West
+C00912,26-35,Lower-Middle,Salaried,Central
+C00913,56+,Low,Salaried,West
+C00914,18-25,Lower-Middle,Salaried,North
+C00915,36-45,Lower-Middle,Salaried,South
+C00916,36-45,Low,Salaried,South
+C00917,26-35,Low,Salaried,South
+C00918,36-45,Low,Salaried,West
+C00919,26-35,Lower-Middle,Other,East
+C00920,36-45,Lower-Middle,Salaried,Central
+C00921,36-45,Lower-Middle,Salaried,Central
+C00922,18-25,Upper-Middle,Salaried,Central
+C00923,26-35,Lower-Middle,Other,South
+C00924,26-35,Upper-Middle,Self-Employed,South
+C00925,36-45,Lower-Middle,Agriculture,Central
+C00926,46-55,Low,Salaried,South
+C00927,36-45,Upper-Middle,Self-Employed,Central
+C00928,46-55,Low,Retired,South
+C00929,36-45,Lower-Middle,Other,South
+C00930,46-55,Upper-Middle,Self-Employed,Central
+C00931,36-45,Low,Salaried,West
+C00932,26-35,Upper-Middle,Agriculture,East
+C00933,56+,Lower-Middle,Self-Employed,East
+C00934,46-55,Lower-Middle,Salaried,Central
+C00935,26-35,High,Salaried,Central
+C00936,18-25,Upper-Middle,Salaried,East
+C00937,46-55,Upper-Middle,Agriculture,East
+C00938,26-35,Lower-Middle,Salaried,Central
+C00939,26-35,Low,Retired,East
+C00940,36-45,Lower-Middle,Salaried,West
+C00941,26-35,Upper-Middle,Salaried,West
+C00942,36-45,Low,Agriculture,East
+C00943,26-35,Upper-Middle,Retired,East
+C00944,36-45,Low,Business Owner,South
+C00945,46-55,Lower-Middle,Self-Employed,East
+C00946,36-45,Low,Salaried,West
+C00947,26-35,Low,Business Owner,Central
+C00948,56+,Low,Agriculture,Central
+C00949,36-45,Upper-Middle,Salaried,West
+C00950,36-45,Low,Self-Employed,West
+C00951,56+,Low,Retired,West
+C00952,26-35,Lower-Middle,Salaried,East
+C00953,56+,Low,Self-Employed,West
+C00954,26-35,Lower-Middle,Self-Employed,North
+C00955,46-55,High,Business Owner,East
+C00956,36-45,Lower-Middle,Retired,Central
+C00957,46-55,Lower-Middle,Agriculture,West
+C00958,26-35,Lower-Middle,Self-Employed,North
+C00959,36-45,Low,Salaried,West
+C00960,36-45,,Agriculture,South
+C00961,46-55,High,Self-Employed,West
+C00962,46-55,Low,Salaried,South
+C00963,56+,Low,Agriculture,South
+C00964,26-35,Low,Self-Employed,East
+C00965,26-35,Lower-Middle,Other,Central
+C00966,18-25,Lower-Middle,Other,West
+C00967,56+,Upper-Middle,Agriculture,Central
+C00968,26-35,Low,Self-Employed,West
+C00969,18-25,Upper-Middle,Salaried,Central
+C00970,26-35,Lower-Middle,Salaried,East
+C00971,36-45,Upper-Middle,Salaried,West
+C00972,36-45,High,Agriculture,East
+C00973,18-25,,Self-Employed,Central
+C00974,46-55,,Salaried,East
+C00975,26-35,Low,Salaried,East
+C00976,36-45,Lower-Middle,Self-Employed,South
+C00977,46-55,Upper-Middle,Agriculture,West
+C00978,56+,Upper-Middle,Self-Employed,South
+C00979,26-35,Low,Retired,North
+C00980,46-55,Low,Other,North
+C00981,26-35,Low,Retired,North
+C00982,18-25,Low,Salaried,Central
+C00983,46-55,Lower-Middle,Salaried,East
+C00984,56+,Lower-Middle,Retired,East
+C00985,36-45,High,Salaried,West
+C00986,36-45,Upper-Middle,Salaried,South
+C00987,56+,Upper-Middle,Salaried,South
+C00988,18-25,Lower-Middle,Self-Employed,West
+C00989,26-35,Upper-Middle,Retired,West
+C00990,56+,High,Salaried,West
+C00991,26-35,High,Salaried,Central
+C00992,26-35,Low,Business Owner,East
+C00993,36-45,Lower-Middle,Salaried,West
+C00994,26-35,Upper-Middle,Business Owner,West
+C00995,36-45,Upper-Middle,Salaried,East
+C00996,46-55,High,Agriculture,Central
+C00997,26-35,Low,Other,West
+C00998,26-35,Low,Salaried,East
+C00999,46-55,Lower-Middle,Salaried,North
+C01000,46-55,Low,Salaried,West
